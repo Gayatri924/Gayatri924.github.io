@@ -3,7 +3,7 @@ h3{
  color:darkBlue;
  font-family: Helvetica, serif;
  align-items: center;
- font-size: 40px;
+ font-size: 30px;
 }
 
 #color{
@@ -11,12 +11,12 @@ h3{
 }
 
 #language{
-  font-size: 30px;
+  font-size: 20px;
 }
 
 header{
   align-items: center;
- font-size:70px;
+ font-size: 40px;
 }
 
 footer{
@@ -25,7 +25,7 @@ footer{
 }
 
 p{
- font-size:20px;
+ font-size:15px;
 }
 
 body{
