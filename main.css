@@ -29,5 +29,14 @@ p{
 }
 
 body{
+ height: 100%;
+ width: 100%;
+}
+
+.bg{
  background-image: url('http://www.theriversouth.org/wp-content/uploads/2015/12/light-abstract-wallpapers5-1024x576.jpg');
+ height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
