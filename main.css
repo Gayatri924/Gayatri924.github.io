@@ -17,13 +17,13 @@ header{
  font-size: 40px;
  display: flex;
  justify-content: flex-end;
+ background-color:skyBlue;
 }
 
 footer{
  color: grey;
  font-size:12px;
  text-align:left;
- background-color:white;
 }
 
 p{
